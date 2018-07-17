@@ -1,0 +1,54 @@
+.footer{
+    background-color: black;
+    
+}
+
+#iconsfooter a{
+    color:white;
+    padding-right: 30px;
+}
+
+#iconsfooter h6{
+    display: inline-block;
+    color: white;
+}
+#topfoot{
+    padding-top: 20px;
+}
+#midfoot {
+    color: white;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+#midfoot div p{
+    font-size: 12px;
+    color: gray;
+    padding: inherit;
+}
+#midfoot div{
+    text-align: center;
+}
+#midfoot div h4{
+    text-transform: uppercase;
+    padding: 5px;
+    font-family: monospace;
+    letter-spacing: 5px;
+}
+#midfoot div h6{
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#midfoot div li{
+    padding: 20px;
+}
+
+.hr{
+  margin-top: 30px;
+}
+#botfoot{
+    text-align: center;
+    color: dimgray;
+    font-size: 12px;
+    padding-bottom: 30px;
+}
